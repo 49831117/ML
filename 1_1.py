@@ -19,6 +19,7 @@ plt.plot(X, y, 'k.')
 # https://matplotlib.org/3.3.3/api/_as_gen/matplotlib.pyplot.plot.html
 plt.show()
 
+
 # 建立模型與評量
 reg = LinearRegression()
 # X and y is the data in previous code.

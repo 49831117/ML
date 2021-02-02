@@ -2,6 +2,7 @@
 # https://ithelp.ithome.com.tw/articles/10227291
 
 import numpy as np
+# import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 X = np.array([ [10, 80], [8, 0], [8, 200], [5, 200], [7, 300],
 [8, 230], [7, 40], [9, 0], [6, 330], [9, 180] ])
